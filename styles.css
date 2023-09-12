@@ -17,9 +17,21 @@
    }
  
    .ad1{
-border-radius: 75%;
+  padding-left: 100px;
+
    }
 
+   .ad-txt{
+    text-align: center;
+    
+    text-decoration: none;
+    color: grey;
+   }
+
+   .ad-txt:hover{
+    color: black;
+    cursor: pointer;
+   }
 
 
  .bubble {
